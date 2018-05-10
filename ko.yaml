@@ -1,7 +1,7 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-charity.donated: Donated
+charity.donated: Donated 기부
 charity.more-info: More About IoTeX Charity Program
 charity.question: How did I know IoTeX? Why I am interested in it?
 charity.share-message: Share Your Act of Kindness!
