@@ -41,23 +41,26 @@ hall-of-fame.badge-section.unicorn.desc: >
 
   Check more detail at <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
-  1st Charity Program Update</a>.
+  1st Charity Program Update</a>.（<a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
+  1st Charity Program Update</a>. 에서 자세한 내용을 확인 ）
 hall-of-fame.search.label: Search by your hashid or Preferred Display Name
 hall-of-fame.thank-you.message: >
-  Crowdsourcing as a way to fund a specific cause for a charity is not new, but
+  Crowdsourcing as a way to fund a specific cause for a charity is not new,(자선을위한 특정한 활동에 자금을 대는 방법으로 Crowdsourcing은 새로운 것이 아닙니다,) but
   IoTeX is doing it via “smart contracts” and redirecting the cryptocurrency
-  hype to charitable causes. In the next few months, under its Community Reward
+  hype to charitable causes.(IoTeX는 "스마트 계약"을 통해이를 수행하고 자선 활동에 암호화폐을 리디렉션합니다.) In the next few months, under its Community Reward
   Program, IoTeX will continue selecting a few charity programs that align with
   IoTeX’s mission of “Connecting the Physical World, Block by Block” as part of
   IoTeX’s Community Reward Program.
+  (향후 몇 개월 동안 IoTeX는 커뮤니티 보상 프로그램 (Community Reward Program)을 통해 IoTeX의 커뮤니티 보상 프로그램 (Community Reward Program)의 일환으로  "Connecting the Physical World, Block by Block" 의 IoTeX 사명과 일치하는 몇 가지 자선 프로그램을 계속 선정 할 것입니다.)
 
 
   IoTeX believes in growing together with the community and connecting the
-  physical world block by block. It’s a very ambitious goal but it can be
-  achieved with a strong team and supportive community. Together with the
+  physical world block by block.(IoTeX는 커뮤니티와 함께 성장하고 물리적 세계를 블록 단위로 연결하는 것을 믿습니다.) It’s a very ambitious goal but it can be
+  achieved with a strong team and supportive community.(매우 야심 찬 목표이지만 강력한 팀과지지하는 커뮤니티를 통해 달성 할 수 있습니다.) Together with the
   community to push the frontier for the development of the blockchain
   ecosystem, IoTeX truly hopes that the community can understand the original
-  intention and help promote the cause.
+  intention and help promote the cause.(IoTeX는 커뮤니티하고 같이 블록 체인 생태계의 발전을 위해 프런티어를 밀고 진정으로 커뮤니티가 원래의 의도를 이해하고 그 사업을 촉진 할 수 있기를 희망합니다.)
 hall-of-fame.title: IoTeX Charity
 home.about.inno.0.desc.keep: '즉각적인 최종성 및 짧은 지연 시간으로 수백만 개의 노드를 지원 친환경적, IoT를 위해 설계'
 home.about.inno.0.title.keep: 빠른 합의
